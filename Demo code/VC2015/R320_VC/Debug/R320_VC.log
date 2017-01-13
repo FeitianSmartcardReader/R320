@@ -1,0 +1,11 @@
+﻿  StdAfx.cpp
+  R320_VC.cpp
+R320_VC.cpp(209): warning C4477: 'sscanf' : format string '%02x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned char *'
+  R320_VC.cpp(209): note: consider using '%hhx' in the format string
+R320_VC.cpp(209): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+R320_VC.cpp(239): warning C4477: 'sscanf' : format string '%02x' requires an argument of type 'unsigned int *', but variadic argument 1 has type 'unsigned char *'
+  R320_VC.cpp(239): note: consider using '%hhx' in the format string
+R320_VC.cpp(239): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  R320_VC.vcxproj -> G:\Ben\SouceCode\trunk\SDK\Reader\R320\Demo code - Copy\R320_VC\.\Debug\R320_VC.exe
